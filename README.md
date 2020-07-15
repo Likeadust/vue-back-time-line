@@ -1,6 +1,6 @@
 ## 预览
 
-![time](./time.png)
+![time](img/time.png)
 
 ## 安装
 
