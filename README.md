@@ -1,6 +1,6 @@
 ## 预览
 
-![time](img/time.png)
+![time](https://raw.githubusercontent.com/Likeadust/img/master/time.png)
 
 ## 安装
 
